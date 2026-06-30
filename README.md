@@ -2,6 +2,8 @@
 
 把你在头部健身公司 **8 年**（加盟 / 门店 / 教练 / 产品 / 数据）及 **互联网中台运营** 中的行业判断，沉淀为 Cursor Agent Skill。
 
+**仓库**：https://github.com/Etude0711/gym-coach-distill
+
 ## 当前 Skill（主）
 
 ```
@@ -21,6 +23,15 @@
 ## 旧版（可忽略）
 
 `.cursor/skills/gym-ops-distill/` 为早期简版，**以 `gym-coach-distill` 为准**。
+
+## 克隆后使用
+
+```bash
+git clone https://github.com/Etude0711/gym-coach-distill.git
+cd gym-coach-distill
+```
+
+在 Cursor 打开该目录，使用 `@gym-coach-distill` 或说「自查健身房的经营」。
 
 ## 使用方式
 
